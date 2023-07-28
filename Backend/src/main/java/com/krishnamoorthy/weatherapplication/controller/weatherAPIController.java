@@ -1,4 +1,4 @@
-package com.hariprasatht.weatherapplication.controller;
+package com.krishnamoorthy.weatherapplication.controller;
 
 import com.hariprasatht.weatherapplication.service.WeatherAPIService;
 import org.springframework.beans.factory.annotation.Autowired;

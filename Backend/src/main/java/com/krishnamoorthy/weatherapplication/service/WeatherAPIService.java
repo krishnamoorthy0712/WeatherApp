@@ -1,4 +1,4 @@
-package com.hariprasatht.weatherapplication.service;
+package com.krishnamoorthy.weatherapplication.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import org.springframework.beans.factory.annotation.Autowired;
